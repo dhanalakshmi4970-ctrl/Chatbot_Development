@@ -1,0 +1,12 @@
+2026-10-28 14:52:10,868 | INFO | HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2026-10-28 14:52:10,892 | INFO | HTTP Request: POST http://127.0.0.1:11434/api/show "HTTP/1.1 200 OK"
+2026-10-28 14:52:59,080 | INFO | HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-10-28 14:52:59,091 | INFO | session=20261028_145210 turn=1 model=llama3.2:3b domain=Education
+2026-10-28 14:56:47,488 | INFO | HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2026-10-28 14:56:47,514 | INFO | HTTP Request: POST http://127.0.0.1:11434/api/show "HTTP/1.1 200 OK"
+2026-10-28 14:56:47,516 | INFO | Chatbot session started | session=20261028_145647_7ed1ea | model=llama3.2:3b | domain=Education
+2026-10-28 14:57:27,694 | INFO | HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-10-28 14:57:27,697 | INFO | Conversation saved | session=20261028_145647_7ed1ea | turn=1
+2026-10-28 14:59:16,000 | INFO | HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-10-28 14:59:16,002 | INFO | Conversation saved | session=20261028_145647_7ed1ea | turn=2
+2026-10-28 14:59:24,778 | INFO | Chatbot session ended | session=20261028_145647_7ed1ea | successful_turns=2

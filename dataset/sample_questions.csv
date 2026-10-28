@@ -1,0 +1,27 @@
+category,question
+Factual,What is Python?
+Factual,What is a variable in Python?
+Factual,What is a function?
+Factual,What is a database?
+Factual,What is an algorithm?
+Factual,What is the difference between RAM and storage?
+Factual,What does CPU stand for?
+Factual,What is artificial intelligence?
+Reasoning,"I have 3 apples and receive 2 more, then give away 1. How many remain?"
+Reasoning,Why should a program validate user input?
+Reasoning,How would you debug a program that crashes for certain inputs?
+Reasoning,"What is the average of 70, 80, 90, and 60?"
+Reasoning,Explain one advantage and disadvantage of CSV files.
+Reasoning,How can you investigate why a program is running slowly?
+Coding,Write a Python function that returns the square of a number.
+Coding,Write a Python function that checks whether a number is even.
+Coding,Write a Python loop that prints numbers from 1 to 5.
+Coding,Explain Python try and except with an example.
+Coding,Show how to read a CSV file using Python.
+Coding,Write a Python program to calculate the sum of two numbers.
+General,Hello! What can you help me with?
+General,Give me three tips for learning programming.
+General,Explain artificial intelligence to a beginner.
+General,How can I improve my problem-solving skills?
+Context,My favourite programming language is Python.
+Context,What is my favourite programming language?
